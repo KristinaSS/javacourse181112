@@ -1,4 +1,4 @@
-package com.musala.javacourse181112;
+package com.musala.javacourse181112.Basics;
 
 public class DataTypeExample {
 
