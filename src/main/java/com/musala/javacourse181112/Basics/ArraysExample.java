@@ -15,5 +15,8 @@ public class ArraysExample {
 
         // кратка нотация за инициализация на array
         long[] longArray = {1L, 4L, 5L}; // {1L, 4L, 5L} изброяваме избраните стойности в блок; в лявата част задаваме ТИПА на елемента;
+
+        boolean[][] twoDimensionalTable = new boolean[2][20]; // 2 rows; 20 columns; двумерен масив
+        System.out.println(twoDimensionalTable[1][0]); // row 1 column A
     }
 }
