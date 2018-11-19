@@ -25,4 +25,8 @@ public class VotesV01Application {
 
     }
 
+    public static void voteCounter (int voterNumber, int voteCounter) {
+
+    }
+
 }
