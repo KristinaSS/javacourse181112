@@ -11,6 +11,19 @@ public class ConditionsExample {
         } else if (7 == 7) {
             System.out.println("2");
         }
+        final String variable = 1 != 1 ? "true" : "false";
+        String value = "yes";
+        switch (value) {
+            case "yes":
+                System.out.println("value: yes");
+                break;
+            case "no":
+                System.out.println("value: no");
+                break;
+                default:
+                    System.out.println("default");
+                    break;
+        }
     }
 
 }
