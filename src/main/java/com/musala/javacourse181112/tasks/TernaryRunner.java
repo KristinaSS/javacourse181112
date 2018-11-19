@@ -17,5 +17,6 @@ public class TernaryRunner {
         }
 
         // TODO: 2-lines implementation, using ternary operator
+
     }
 }
