@@ -18,6 +18,7 @@ public class chromosomesApp {
                 break;
             case "female":
                 System.out.println("X");
+                break;
         }
     }
 }
